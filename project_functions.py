@@ -13,6 +13,7 @@ warnings.filterwarnings('ignore')
 
 
 
+
 #creating a class that will take the dataframe and relevant columns and visualize for both univariate visuals and bivariate visuals
 class visualizations:
     def __init__(self, df, columns):
